@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Periode Care</string>
+    <string name="periode_care">PERIODE CARE</string>
+    <string name="login_subtitle">Silakan masuk untuk melanjutkan</string>
+    <string name="nama">Nama</string>
+    <string name="login">LOGIN</string>
+
+    <string name="welcome">Selamat Datang</string>
+    <string name="dashboard_subtitle">Pantau siklus kesehatanmu di sini</string>
+    <string name="tanggal_haid">Tanggal Hari Pertama Haid Terakhir (dd-MM-yyyy)</string>
+    <string name="siklus">Siklus Menstruasi (contoh 28 hari)</string>
+    <string name="hitung">Hitung Prediksi</string>
+    <string name="label_hasil_prediksi">Hasil Analisis:</string>
+    <string name="hasil">Hasil prediksi akan muncul di sini</string>
+
+    <string name="label_haid">🔴 Estimasi Haid Berikutnya</string>
+    <string name="label_masa_subur">🩷 Estimasi Masa Subur</string>
+    <string name="label_ovulasi">🟣 Estimasi Hari Ovulasi</string>
+    <string name="label_hpl">👶 Estimasi Hari Perkiraan Lahir (HPL)</string>
+    <string name="format_tanggal_hint">dd-MM-yyyy</string>
+</resources>
